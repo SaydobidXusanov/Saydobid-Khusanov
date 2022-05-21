@@ -160,10 +160,12 @@ hr {
 
 .profile {
 width: 30%;
+font-size: 1rem;
 margin: 0 auto 0 auto;
 line-height: 2;
 }
 .contact-text {
 width: 40%;
+font-size: 1rem;
 margin: 30px auto 50px auto;
 }
